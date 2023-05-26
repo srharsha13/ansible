@@ -1,0 +1,5 @@
+--> if you want to connect from linux to linux we have to ssh protocol (22)
+--> if we want to connect from linux to window we have to use wimrm protocal (5985)
+--> inventory file can be created any where 
+
+configuraion file = /etc/ansible/ansible.cfg

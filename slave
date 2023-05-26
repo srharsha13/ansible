@@ -1,0 +1,1 @@
+ssh -i "ansible.pem" ec2-user@ec2-54-190-43-165.us-west-2.compute.amazonaws.com
